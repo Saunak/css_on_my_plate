@@ -1,0 +1,19 @@
+{
+  "name": "css_on_my_plate",
+  "version": "1.0.0",
+  "description": "This is a boiler plate for the css design and animation that I learn. This is a project that might use mulitple js framework (React js , Angular and Vue js and some other js framework  in future as well)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saunak/css_on_my_plate.git"
+  },
+  "author": "Saunak Sen Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saunak/css_on_my_plate/issues"
+  },
+  "homepage": "https://github.com/Saunak/css_on_my_plate#readme"
+}
